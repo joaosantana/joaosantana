@@ -2,6 +2,8 @@
 
 Este é o meu perfil pessoal do GitHub.
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
 [![Estatísticas do GitHub para joaosantana](https://github-readme-stats.vercel.app/api?username=joaosantana&count_private=true&show_icons=true&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Linguagens mais usadas por joaosantana](https://github-readme-stats.vercel.app/api/top-langs/?username=joaosantana&layout=compact&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
